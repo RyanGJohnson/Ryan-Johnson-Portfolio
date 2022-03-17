@@ -12,7 +12,8 @@ LinkedIn: www.linkedin.com/in/ryangaryjohnson
 - Leadership, Teamwork, and Mentorship
 - Creativity
 
-## [Character Conversation Demo](https://github.com/RyanGJohnson/CharacterConversationDemo)
+## Projects
+### [Character Conversation Demo](https://github.com/RyanGJohnson/CharacterConversationDemo)
 National University Capstone Project (3 Month Project)
 
 <b>Features</b>
@@ -22,3 +23,28 @@ National University Capstone Project (3 Month Project)
 - Array based mapping and character locations within a fantasy tavern.
 - Never ending possibilities.
 - Requires a key to work. [Get key](https://beta.openai.com/overview) or request one from me.
+
+### [Fuzzy Dice](https://github.com/RyanGJohnson/Assignment3FuzzyDice)
+National University Assignment (1 Week Project)
+
+<b>Features</b>
+- Uses Windows Forms to create a simple dice order form.
+- Coded in C++.
+- Demonstrates ability to check form for completeness.
+
+### [Tabluate Dice 2d6](https://github.com/RyanGJohnson/Tablular2d6)
+National University Assignment (1 Week Project)
+
+<b>Features</b>
+- Uses Windows Forms to create a simple dice order form.
+- Coded in C++.
+- Demonstrates the ability to use random functions and probibilities.
+
+
+## Education
+- National University\
+MS Computer Science
+- Cogswell Pollytech\
+BA Computer Visual Imaging: Game Design
+- West Valley College\
+AA Digital Media Design and Production
