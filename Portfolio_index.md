@@ -40,6 +40,13 @@ National University Assignment (1 Week Project)
 - Coded in C++.
 - Demonstrates the ability to use random functions and probibilities.
 
+### [Java Final](https://github.com/RyanGJohnson/Ryan-Johnson-Portfolio/blob/main/CSC262%20Final%20(1).docx)
+<b>Note: Click view raw after this link to download document</b>\
+National University Java Final (24 hours)
+- Coded in Java
+- Uses JavaFX (witch is no longer supported at the time of the course).\
+This required us to adjust faster than the cariculum as the instructor did not have a JavaFX alternative.
+- Shows ability to overcome obsticles in short timeframes while demonstrating the understanding of Java.
 
 ## Education
 - National University\
